@@ -58,7 +58,7 @@ Claude Haiku 4.5 가 세 모델 중 가장 비싸지만 문서 작성 품질과 
 - 일정, 수치, 정책 정보는 확인되지 않은 경우 "확인 필요"라고 표시한다.
 - 최종 출력은 간결하게 작성한다.
 
-7. [Few-shot](링크)
+7. [Few-shot](https://github.com/byeongchan/codyssey_jbc/blob/main/fewshot.md)
 
 8. 프롬프트 개선
 - v1 : 당신은 기업용 메일 작성 전문가이다. 사용자의 입력 정보를 바탕으로 비즈니스 메일 초안을 작성한다.
